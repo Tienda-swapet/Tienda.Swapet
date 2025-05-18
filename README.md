@@ -1,2 +1,2 @@
-# tienda.swapet
+# Tienda.Swapet
 Nueva Vida, Nuevos Dueños
